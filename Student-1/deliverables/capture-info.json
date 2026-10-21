@@ -1,0 +1,12 @@
+{
+  "requestedSeconds": 30,
+  "aspectRatio": "16:9",
+  "resolution": "1280x720",
+  "videoPath": "/home/ubuntu/killzombies/deliverables/raw/page@9817651ea236a8cee7656236eff4367c.webm",
+  "audioPath": "/home/ubuntu/killzombies/deliverables/raw/game-audio.webm",
+  "audioMimeType": "audio/webm;codecs=opus",
+  "audioBytes": 344978,
+  "videoStartedAt": 1791987419267,
+  "audioStartedAt": 1791987421334,
+  "approximateVideoAudioOffsetMs": 2067
+}

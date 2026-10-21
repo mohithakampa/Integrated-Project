@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#090c10" />
+    <meta name="description" content="A four-level 2D survival campaign. Find the Human Power within, fight through the infected city, and stop the outbreak." />
+    <meta name="color-scheme" content="dark" />
+    <title>KILL THE ZOMBIES — WAKING THE CITY</title>
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <link rel="preload" href="/fonts/ManusCC0-Bold.ttf" as="font" type="font/ttf" crossorigin />
+    <link rel="preload" href="/fonts/ManusCC0-Regular.ttf" as="font" type="font/ttf" crossorigin />
+    <link rel="preload" href="/fonts/ManusCC0-Medium.ttf" as="font" type="font/ttf" crossorigin />
+  </head>
+  <body>
+    <canvas id="game" aria-label="KILL THE ZOMBIES 2D survival game playfield"></canvas>
+    <div id="ui"></div>
+    <div id="loading-screen" aria-live="polite">
+      <img class="loader-icon" src="/favicon.png" alt="" />
+      <div class="loader-title">KILL THE <span>ZOMBIES</span></div>
+      <div class="loader-track"><i></i></div>
+      <div id="load-message" class="loader-message">WAKING THE CITY · PREPARING FIELD SYSTEMS</div>
+      <button id="loading-retry" type="button" hidden>RETRY</button>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

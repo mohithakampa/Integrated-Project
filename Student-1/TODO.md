@@ -1,0 +1,4 @@
+- [ ] **30-second KILL THE ZOMBIES gameplay demo video**
+  - Create a 30-second, 16:9 video from real gameplay capture of the current browser game; do not change the game itself or add an in-game tutorial.
+  - Show the KILL THE ZOMBIES title and all four distinct campaign environments, with representative movement/combat and the Level 4 origin-site threat; make unlimited ammunition clear and finish with a branded end card.
+  - Export a polished 1280×720 H.264 MP4, verify its duration, playback, picture and sound, and deliver the file directly.

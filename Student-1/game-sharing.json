@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 2,
+  "title": "KILL THE ZOMBIES",
+  "description": "A four-level 2D survival-horror campaign. Fight through the infected city, mall, hospital, and underground origin site; awaken Human Power, build a cure, and stop the outbreak.",
+  "assets": {
+    "favicon": "assets/share/favicon.png"
+  }
+}

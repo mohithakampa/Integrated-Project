@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "groups": {
+    "game-branding": {
+      "name": "Game Branding",
+      "order": 10
+    }
+  },
+  "bundles": {},
+  "assets": {
+    "assets/share/favicon.png": {
+      "path": "/manus-storage/game/sha256/6f00aa1ff54d637ba6af8b57cf9cbad99e6e1bac7439f69720612e4d73a1abea.png",
+      "sha256": "sha256:6f00aa1ff54d637ba6af8b57cf9cbad99e6e1bac7439f69720612e4d73a1abea",
+      "size": 604,
+      "assetType": "image",
+      "groupId": "game-branding"
+    },
+    "assets/share/og.png": {
+      "path": "/manus-storage/game/sha256/543835b146dd109d35eb4351242dba1279a7e0269e85eb85e18417ab5793a620.png",
+      "sha256": "sha256:543835b146dd109d35eb4351242dba1279a7e0269e85eb85e18417ab5793a620",
+      "size": 3802144,
+      "assetType": "image",
+      "groupId": "game-branding"
+    }
+  }
+}
